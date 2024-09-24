@@ -12,6 +12,7 @@ public class InstanceApp {
         PrintWriter p2 = new PrintWriter("result2.txt");
         p2.write("Hello 2");
         p2.close();
-
+        p2.toString();
+        
     }
 }
