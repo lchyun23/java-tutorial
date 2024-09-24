@@ -1,0 +1,100 @@
+{
+  // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+  // 기존 특성에 대한 설명을 보려면 가리킵니다.
+  // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "java-tutorial_d962edbb"
+    },
+    {
+      "type": "java",
+      "name": "ClassApp",
+      "request": "launch",
+      "mainClass": "ClassApp",
+      "projectName": "java-tutorial_d962edbb"
+    },
+    {
+      "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "HelloWorld",
+      "projectName": "java-tutorial_d962edbb"
+    },
+    {
+      "type": "java",
+      "name": "InstanceApp",
+      "request": "launch",
+      "mainClass": "InstanceApp",
+      "projectName": "java-tutorial_d962edbb"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "java-tutorial_d962edbb"
+    },
+    {
+      "type": "java",
+      "name": "Sample1",
+      "request": "launch",
+      "mainClass": "Sample1",
+      "projectName": "java-tutorial_d962edbb"
+    },
+    {
+      "type": "java",
+      "name": "Sample2",
+      "request": "launch",
+      "mainClass": "Sample2",
+      "projectName": "java-tutorial_d962edbb"
+    },
+    {
+      "type": "java",
+      "name": "Sample3",
+      "request": "launch",
+      "mainClass": "Sample3",
+      "projectName": "java-tutorial_d962edbb"
+    },
+    {
+      "type": "java",
+      "name": "Sample4",
+      "request": "launch",
+      "mainClass": "Sample4",
+      "projectName": "java-tutorial_d962edbb"
+    },
+    {
+      "type": "java",
+      "name": "Sample5",
+      "request": "launch",
+      "mainClass": "Sample5",
+      "projectName": "java-tutorial_d962edbb"
+    },
+    {
+      "type": "java",
+      "name": "Sample6",
+      "request": "launch",
+      "mainClass": "Sample6",
+      "projectName": "java-tutorial_d962edbb"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "java-tutorial_d962edbb"
+    },
+    {
+      "type": "java",
+      "name": "AccountingApp",
+      "request": "launch",
+      "mainClass": "lifecoding.myapp.AccountingApp",
+      "projectName": "java-tutorial_d962edbb",
+      "args": ["10000"]
+    }
+  ]
+}
